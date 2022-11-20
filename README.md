@@ -2,7 +2,15 @@
 
 ## Objectives of this repository
 
-Objectives about this repository
+There are two main section to this repository. The first section is in the folder named 'practicals'. This is where the regular tasks for the module have been performed. The topics covered are:
+
+1. Statistics
+2. Models
+3. Parameters
+4. Learning
+5. Evaluation
+
+The second section is in the root of the repository. This is the Machine Learning Project Notebook for this module. The topic of the project is Anomaly Detection using Keras.
 
 # Quick Steps
 
