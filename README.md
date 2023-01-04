@@ -1,5 +1,7 @@
 # Assessment: Machine Learning and Statistics
 
+![keras](img/keras.png)
+
 ## Objectives of this repository
 
 There are two main section to this repository. The first section is in the folder named 'practicals'. This is where the regular tasks for the module have been performed. The topics covered are:
