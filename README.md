@@ -18,11 +18,11 @@ The second section is in the root of the repository. This is the Machine Learnin
 
 ### nbviewer:
 
-[![nbviewer]()
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Cormac88/machine-learning-and-statistics/tree/main/)
 
 ### Binder:
 
-[![Binder]()
+[![Binder](https://mybinder.org/badge_logo.svg]()
 
 # Install
 

@@ -1,0 +1,10 @@
+numpy
+pandas
+tensorflow.keras
+matplotlib.pyplot
+statsmodels.stats.weightstats
+scipy.stats
+itertools
+random
+math
+seaborn
