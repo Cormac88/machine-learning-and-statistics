@@ -29,12 +29,18 @@ The topics covered are:
 
 ### Statistics Questions:
 #### Exercise 1
+#### Part 1
 Calculate the minimum number of cups of tea required to ensure the probability of randomly selecting the correct cups is less than or equal to 1%.
 
-Bonus Question: How many would be required if you were to let the taster get one cup wrong while maintaining the 1% threshold?
+#### Bonus Question: 
+How many would be required if you were to let the taster get one cup wrong while maintaining the 1% threshold?
+
+#### Part 2
+Use scipy's version of Fisher's exact test to simulate the Lady Tasting Tea problem.
 
 #### Exercise 2
-Use scipy's version of Fisher's exact test to simulate the Lady Tasting Tea problem.
+- Take the code from the Examples section of the scipy stats documentation for independent samples t-tests, add it to your own notebook and add explain how it works using MarkDown cells and code comments.
+- Improve it in any way you think it could be improved.
 
 ### Models Questions:
 #### Exercise 1
