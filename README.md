@@ -14,15 +14,9 @@ There are two main section to this repository. The first section is in the folde
 
 The second section is in the root of the repository. This is the Machine Learning Project Notebook for this module. The topic of the project is Anomaly Detection using Keras.
 
-# Quick Steps
-
-### nbviewer:
+# nbviewer:
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Cormac88/machine-learning-and-statistics/tree/main/)
-
-### Binder:
-
-[![Binder](https://mybinder.org/badge_logo.svg]()
 
 # Install
 
